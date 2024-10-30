@@ -1,0 +1,726 @@
+# Copyright (C) 2018 JG Spam Fighter
+# This file is distributed under the same license as the JG Spam Fighter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JG Spam Fighter 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/jg_spam_fighter\n"
+"POT-Creation-Date: 2018-10-23 19:07:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: help/blacklisted.php:4 help/samples.php:13 inc/class.admin.php:166
+msgid "Blacklisted"
+msgstr ""
+
+#: help/blacklisted.php:7
+msgid "This is where all the blocked or blacklisted IP addresses go."
+msgstr ""
+
+#: help/blacklisted.php:10
+msgid ""
+"If you hover your mouse over an IP address you will see 2 options: %s and %s."
+msgstr ""
+
+#: help/blacklisted.php:10 table/table.blacklisted.php:94
+msgid "stats"
+msgstr ""
+
+#: help/blacklisted.php:10 table/table.blacklisted.php:95
+msgid "UnBlacklist"
+msgstr ""
+
+#: help/blacklisted.php:11
+msgid "Blacklisted Options"
+msgstr ""
+
+#: help/blacklisted.php:12 help/dash.php:19 help/trusted.php:12
+msgid "Below you will find instructions and explanations for each option."
+msgstr ""
+
+#: help/blacklisted.php:15
+msgid ""
+"%s: Click on the link or on the IP address itself and you should be able to "
+"see some information about this IP address from the global database."
+msgstr ""
+
+#: help/blacklisted.php:15
+msgid "STATS"
+msgstr ""
+
+#: help/blacklisted.php:17
+msgid ""
+"this function is currently in a beta state (under testing and development)"
+msgstr ""
+
+#: help/blacklisted.php:21
+msgid ""
+"%s: Choose this option if you want to remove this IP address from the "
+"\"black list\". The IP address will again be able to post comments on your "
+"site and you will be able to see those comments in the main list. From there "
+"you will be able to trust it, should you desire to do so."
+msgstr ""
+
+#: help/blacklisted.php:21
+msgid "UNBLACKLIST"
+msgstr ""
+
+#: help/dash.php:4 inc/class.help.php:42 inc/class.help.php:70
+#: inc/class.help.php:84 inc/class.help.php:99
+msgid "How to USE"
+msgstr ""
+
+#: help/dash.php:5
+msgid "Follow these simple guidelines:"
+msgstr ""
+
+#: help/dash.php:8
+msgid ""
+"Visit this page once in a while (when you feel the number of comments held "
+"for moderation is high enough)."
+msgstr ""
+
+#: help/dash.php:11
+msgid ""
+"Here you see a list of IP addresses from which both good and bad (spammy) "
+"comments on your site were made. The IP addresses will be ordered by the "
+"number of comments - higher numbers on top."
+msgstr ""
+
+#: help/dash.php:14
+msgid ""
+"Your goal here should be to discern the spammy IP addresses - responsible "
+"for spammy comments on your site. You will want to remove the bad comments "
+"made from the IP address and block the IP address from being able to make "
+"futher comments on your blog."
+msgstr ""
+
+#: help/dash.php:17
+msgid ""
+"If you hover your mouse over an IP address you will see 3 options: %s, %s, "
+"and %s."
+msgstr ""
+
+#: help/dash.php:17 table/table.log.php:107 table/table.trusted.php:98
+msgid "Samples"
+msgstr ""
+
+#: help/dash.php:17 help/dash.php:24 help/samples.php:10 help/samples.php:11
+#: help/samples.php:18 table/table.log.php:108 table/table.sample.php:109
+msgid "Remove & Block"
+msgstr ""
+
+#: help/dash.php:17 help/samples.php:17 table/table.log.php:109
+#: table/table.sample.php:110
+msgid "Trust"
+msgstr ""
+
+#: help/dash.php:18
+msgid "Dashboard Options"
+msgstr ""
+
+#: help/dash.php:22
+msgid ""
+"%s: To determine wherther an IP address \"makes\" good comments click on it. "
+"You will see a list of %s - comments made from this IP address. If at least "
+"one of them looks sketchy (that is usually very easy to see), it's almost "
+"certain that they all are... That should be a good enough indication that "
+"you can (and should) safely remove and even block that IP address."
+msgstr ""
+
+#: help/dash.php:22 help/trusted.php:15
+msgid "SAMPLES"
+msgstr ""
+
+#: help/dash.php:22
+msgid "sample comments"
+msgstr ""
+
+#: help/dash.php:24
+msgid ""
+"By the way, the big number of the comments on the previous page was already "
+"a \"red flag\". That is why you are checking this one. Just to double make "
+"sure."
+msgstr ""
+
+#: help/dash.php:24
+msgid "Remove"
+msgstr ""
+
+#: help/dash.php:28
+msgid ""
+"%s: by choosing this option you will remove all the comments made from this "
+"IP address and block the IP address itself to prevent it from further being "
+"able to post submit comments on your website."
+msgstr ""
+
+#: help/dash.php:28
+msgid "REMOVE & BLOCK"
+msgstr ""
+
+#: help/dash.php:31
+msgid ""
+"%s: Choose this option if you want to \"white list\" this IP address. That "
+"is it will not be shown on the list ever again. You want to trust an IP "
+"address if you are sure it belongs to a legit blog reader/commenter."
+msgstr ""
+
+#: help/dash.php:31
+msgid "TRUST"
+msgstr ""
+
+#: help/problem.php:4 inc/class.help.php:21 inc/class.help.php:49
+msgid "The Problem"
+msgstr ""
+
+#: help/problem.php:5
+msgid "Spam comments&hellip; Lots of it."
+msgstr ""
+
+#: help/problem.php:6
+msgid ""
+"This can easily become hard to manage. This is no fun to have to skim "
+"through all those mostly spammy comments, in order to try and save the "
+"relatively few good ones, while toasting out the rest."
+msgstr ""
+
+#: help/problem.php:7
+msgid "Removing spam comments the usual way"
+msgstr ""
+
+#: help/problem.php:8
+msgid ""
+"Sure, there are other plugins that are meant to help you manage the "
+"situation, some cost money to use, some will even disqualify and block a "
+"percentage of good comments as if they were spam comments. That wouldn't be "
+"good either. Would it? You sure want all the feedback / FREE relevant "
+"content on your site! Plus you want to win your visitors' trust and "
+"participation!"
+msgstr ""
+
+#: help/problem.php:10
+msgid ""
+"%s approaches this problem in a unique, simple and effective way. It lets "
+"you leverage the power of the whole community of the plugin users."
+msgstr ""
+
+#: help/problem.php:12
+msgid "Enter"
+msgstr ""
+
+#: help/problem.php:12 help/solution.php:4 inc/class.help.php:28
+#: inc/class.help.php:56
+msgid "The Solution"
+msgstr ""
+
+#: help/samples.php:4
+msgid "Sample Comments"
+msgstr ""
+
+#: help/samples.php:7
+msgid "Here you see a list of comments made from the IP address."
+msgstr ""
+
+#: help/samples.php:10
+msgid ""
+"If at least one of them looks sketchy (that is usually very easy to see), "
+"it's almost certain that they all are... You can (and should) %s that IP "
+"address."
+msgstr ""
+
+#: help/samples.php:13
+msgid ""
+"That will put the IP address in %s, and any further attempts to post "
+"comments on your website from this IP address will be blocked."
+msgstr ""
+
+#: help/samples.php:13 help/samples.php:20
+msgid "here"
+msgstr ""
+
+#: help/samples.php:17
+msgid ""
+"Click on the %s button if the comments look good and you know this is "
+"trustworthy IP address."
+msgstr ""
+
+#: help/samples.php:20
+msgid ""
+"That will put the IP address in %s, and the IP address will not be listed in "
+"the \"All\" list any longer."
+msgstr ""
+
+#: help/samples.php:20 help/trusted.php:4 inc/class.admin.php:160
+msgid "Trusted"
+msgstr ""
+
+#: help/sidebar.php:4
+msgid "For more information:"
+msgstr ""
+
+#: help/sidebar.php:5
+msgid "News"
+msgstr ""
+
+#: help/sidebar.php:6
+msgid "FAQ"
+msgstr ""
+
+#: help/sidebar.php:7
+msgid "Support"
+msgstr ""
+
+#: help/sidebar.php:8
+msgid "Contribute"
+msgstr ""
+
+#: help/solution.php:5
+msgid ""
+"When someone makes a comment on your blog the Wordpress takes a note of the "
+"IP (computer) address from which the comment was made. Spammers, whether "
+"robots or real persons usually make more than one comment from one such "
+"address. More like dozens if not hundreds of them."
+msgstr ""
+
+#: help/solution.php:6
+msgid ""
+"Based on the above, if you were able to see what IP addresses make the most "
+"of comments on your website, and then if you were able to quickly examine "
+"some of the comments, you should be able to quickly tell who is responsible "
+"for all the mess on your website. Then you could easily isolate and block "
+"those spammy IP addresses and remove all their comments. Blocking the IP "
+"address would prevent them from being able to further spam your blog. That "
+"would be awesome, wouldn't it? And that is, in essence, how the plugin works."
+msgstr ""
+
+#: help/solution.php:7
+msgid "Removing spam comments with %s"
+msgstr ""
+
+#: help/solution.php:8
+msgid "The Possibilities are endless"
+msgstr ""
+
+#: help/solution.php:9
+msgid ""
+"Upcoming versions of the plugin will let you, the plugin user, to leverage "
+"%1$s of the entire %2$s user community. Every time a user, such as you, "
+"blocks an IP address and removes the spammy comments (that's all "
+"accomplished by a single click here), the spammy IP address will be reported "
+"into a %3$s. As the database grows new features will soon be available. For "
+"example, you may be able to have spammy comments automatically removed and "
+"even outright blocked based on some user-defined conditional settings. Say, "
+"if an IP address has been reported by other users a 100 times, go ahead and "
+"block it on my site too. As the developer I am open to %4$s here! The "
+"possibilities are endless! Please feel free to %5$s with any ideas and "
+"functionality requests."
+msgstr ""
+
+#: help/solution.php:9
+msgid "the power"
+msgstr ""
+
+#: help/solution.php:9
+msgid "cloud-based global system"
+msgstr ""
+
+#: help/solution.php:9
+msgid "community input"
+msgstr ""
+
+#: help/solution.php:9 view/view.about.php:38 view/view.about.php:43
+msgid "contact me"
+msgstr ""
+
+#: help/trusted.php:7
+msgid ""
+"Here you see a list of IP addresses that you or another Administrator have "
+"previously \"trusted\". The IP addresses shown here will be excluded from "
+"the list of potentially spammy IP addresses."
+msgstr ""
+
+#: help/trusted.php:10
+msgid ""
+"If you hover your mouse over an IP address you will see a bunch of options."
+msgstr ""
+
+#: help/trusted.php:11
+msgid "Trusted Options"
+msgstr ""
+
+#: help/trusted.php:15
+msgid ""
+"%s: To doublecheck wherther an IP address \"makes\" good comments click on "
+"it. You will see a list of comments made from this IP address. If at least "
+"one of them looks sketchy you should probably untrust that IP address."
+msgstr ""
+
+#: help/trusted.php:18
+msgid ""
+"%s: Choose this option if you want to \"unstrust\" this IP address. That is "
+"it will again be shown on the list of potentially spammy IP addresses."
+msgstr ""
+
+#: help/trusted.php:18
+msgid "UNTRUST"
+msgstr ""
+
+#: help/trusted.php:21
+msgid ""
+"%s: by choosing this option you will untrust the IP address and remove all "
+"the comments made from this IP address."
+msgstr ""
+
+#: help/trusted.php:21
+msgid "UNTRUST & REMOVE"
+msgstr ""
+
+#: help/trusted.php:24
+msgid ""
+"%s: by choosing this option you will untrust the IP address, as well as "
+"remove all the comments made from this IP address and block the IP address "
+"itself to prevent it from further being able to post comments on your "
+"website."
+msgstr ""
+
+#: help/trusted.php:24
+msgid "UNTRUST, REMOVE & BLOCK"
+msgstr ""
+
+#: inc/autoloader.php:33
+msgid "The file attempting to be loaded at %s does not exist."
+msgstr ""
+
+#. #-#-#-#-#  jg_spam_fighter.pot (JG Spam Fighter 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: inc/class.admin.php:75 inc/class.admin.php:114 inc/class.admin.php:116
+#: inc/class.admin.php:118 inc/class.admin.php:120 inc/class.admin.php:122
+#: inc/class.admin.php:124 inc/class.admin.php:126 inc/class.admin.php:130
+#: inc/class.admin.php:136 jg_spam_fighter.php:40
+msgid "JG Spam Fighter"
+msgstr ""
+
+#: inc/class.admin.php:128
+msgid "Sample comments for %s"
+msgstr ""
+
+#: inc/class.admin.php:132
+msgid "Unlimited Grow Potential"
+msgstr ""
+
+#: inc/class.admin.php:134 inc/class.view.php:78
+msgid "About %s"
+msgstr ""
+
+#: inc/class.admin.php:154
+msgid "All"
+msgstr ""
+
+#: inc/class.admin.php:172 inc/class.view.php:78
+msgid "About"
+msgstr ""
+
+#: inc/class.admin.php:188
+msgid "Plugin requires WordPress %s or higher (%s is being used)."
+msgstr ""
+
+#: inc/class.admin.php:190
+msgid "Please %s to a current version to ensure %s works properly."
+msgstr ""
+
+#: inc/class.admin.php:190
+msgid "upgrade WordPress"
+msgstr ""
+
+#: inc/class.admin.php:193
+msgid ""
+"Your %s is needed for the plugin to be fully functional and protect your "
+"blog from spam comments."
+msgstr ""
+
+#: inc/class.admin.php:193
+msgid "consent"
+msgstr ""
+
+#: inc/class.help.php:114
+msgid "no content"
+msgstr ""
+
+#: inc/class.init.php:40
+msgid "%s requires PHP %s or higher. You’re still on %s. Sorry. %s"
+msgstr ""
+
+#: inc/class.init.php:40
+msgid "Back to Plugins"
+msgstr ""
+
+#: inc/class.model.php:57
+msgid "Sorry, there was an error. Operation failed."
+msgstr ""
+
+#: inc/class.view.php:80
+msgid "All (%d)"
+msgstr ""
+
+#: inc/class.view.php:81
+msgid "Trusted (%d)"
+msgstr ""
+
+#: inc/class.view.php:82
+msgid "Blacklisted (%d)"
+msgstr ""
+
+#: inc/class.view.php:97 view/view.stats.php:20 view/view.trust.php:32
+#: view/view.unblock.php:30 view/view.untrust.php:60
+msgid "Go back"
+msgstr ""
+
+#: inc/class.view.php:112
+msgid "All (%s)"
+msgstr ""
+
+#: inc/class.view.php:113
+msgid "Approved (%s)"
+msgstr ""
+
+#: inc/class.view.php:114
+msgid "Held for Moderation (%s)"
+msgstr ""
+
+#: inc/class.view.php:158
+msgid "IP address is not set."
+msgstr ""
+
+#: partials/grow-potential.php:1
+msgid ""
+"Each time you or another user identifies an IP address as spammy and removes "
+"the spammy comments made from the IP address and blocks the IP address "
+"itself (that's all accomplished by just one click here in the plugin), the "
+"spammy IP address is logged into the global database. That information is "
+"extremely valuable."
+msgstr ""
+
+#: partials/grow-potential.php:2
+msgid ""
+"See for yourself. Click on an IP address in the far-right column of the "
+"table to look up it's stats."
+msgstr ""
+
+#: partials/grow-potential.php:3
+msgid "IP address look up"
+msgstr ""
+
+#: partials/grow-potential.php:4
+msgid ""
+"You will see things like how many other sites have reported this IP address "
+"as spammy, how many spammy comments from this IP address have been removed, "
+"etc."
+msgstr ""
+
+#: partials/grow-potential.php:5
+msgid ""
+"In the future versions that will also allow us to have automatic options, "
+"based on the global user data. That is you will be able to have spam removed "
+"and blocked automatically for IP addresses that have been red-flagged in the "
+"system. Virtually unlimited options will be available here as the global "
+"database populates."
+msgstr ""
+
+#: table/table.blacklisted.php:31
+msgid "IP address"
+msgstr ""
+
+#: table/table.blacklisted.php:57
+msgid "Remove selected from Blacklisted"
+msgstr ""
+
+#: table/table.blacklisted.php:81
+msgid "%d IP addresses have been removed from Blacklisted."
+msgstr ""
+
+#: table/table.blacklisted.php:92 table/table.blacklisted.php:94
+#: table/table.log.php:128
+msgid "stats for %s"
+msgstr ""
+
+#: table/table.log.php:31 table/table.trusted.php:31
+msgid "Commenter's IP address"
+msgstr ""
+
+#: table/table.log.php:32 table/table.trusted.php:32
+msgid "All Comments"
+msgstr ""
+
+#: table/table.log.php:33 table/table.trusted.php:33
+msgid "Pending"
+msgstr ""
+
+#: table/table.log.php:34 table/table.trusted.php:34
+msgid "Approved"
+msgstr ""
+
+#: table/table.log.php:35
+msgid "Stats (%s)"
+msgstr ""
+
+#: table/table.log.php:35
+msgid "About Spam levels"
+msgstr ""
+
+#: table/table.log.php:70
+msgid "Remove & Block Selected"
+msgstr ""
+
+#: table/table.log.php:94 table/table.trusted.php:85
+msgid "%d IP addresses have been removed, and the IP address has been blocked."
+msgstr ""
+
+#: table/table.sample.php:42
+msgid "Commenter's email address"
+msgstr ""
+
+#: table/table.sample.php:43
+msgid "Commenter's web address"
+msgstr ""
+
+#: table/table.sample.php:44
+msgid "Date"
+msgstr ""
+
+#: table/table.sample.php:45
+msgid "Content"
+msgstr ""
+
+#: table/table.sample.php:100 table/table.trusted.php:99
+msgid "UnTrust"
+msgstr ""
+
+#: table/table.sample.php:101 table/table.trusted.php:100
+msgid "UnTrust & Remove"
+msgstr ""
+
+#: table/table.sample.php:102 table/table.trusted.php:101
+msgid "UnTrust, Remove & Block"
+msgstr ""
+
+#: table/table.sample.php:103 table/table.sample.php:111
+msgid "Cancel (go back)"
+msgstr ""
+
+#: table/table.trusted.php:59
+msgid "Untrust Selected"
+msgstr ""
+
+#: table/table.trusted.php:60
+msgid "Untrust & Remove Selected"
+msgstr ""
+
+#: table/table.trusted.php:61
+msgid "Untrust, Remove & Block Selected"
+msgstr ""
+
+#: view/view.about.php:14
+msgid "Thank you for your consent!"
+msgstr ""
+
+#: view/view.about.php:35
+msgid "Thank you for choosing %s!"
+msgstr ""
+
+#: view/view.about.php:36
+msgid "Hi, my name is Jay Gaura."
+msgstr ""
+
+#: view/view.about.php:37
+msgid ""
+"I am the developer behind %s and I would like to thank you for using my "
+"plugin or at least for trying it out!"
+msgstr ""
+
+#: view/view.about.php:38
+msgid ""
+"I hope you are or will have a good experience using %s. If there is ever "
+"anything wrong with it or for any other reason, please feel free to %s. I "
+"will like your feedback and I always appreciate your support."
+msgstr ""
+
+#: view/view.about.php:41
+msgid "Oh, one more thing since you seem to be a new user here. Welcome!"
+msgstr ""
+
+#: view/view.about.php:43
+msgid ""
+"To comply with WordPress plugin publishing rules I need to ask your consent "
+"to gather two pieces of information from your usage of the plugin. This is "
+"absolutely needed to make the plugin all that much more powerful and useful "
+"in the upcoming versions. Please watch the video on the left (if you "
+"haven't) to understand how and why. But if not, then&hellip; all I need to "
+"know is the spammy IP addresses that you will be blocking using the plugin "
+"(1) and the number of spammy comments you will be removing (2). That's all, "
+"and yes, that will make a big difference. You will see!"
+msgstr ""
+
+#: view/view.about.php:45
+msgid "I consent"
+msgstr ""
+
+#: view/view.about.php:48
+msgid "I give my consent."
+msgstr ""
+
+#: view/view.block.php:25
+msgid "%d spam comment has been removed, and %s has been blocked."
+msgid_plural "%d spam comments have been removed, and %s has been blocked."
+msgstr[0] ""
+msgstr[1] ""
+
+#: view/view.stats.php:17
+msgid "The Power of the Community"
+msgstr ""
+
+#: view/view.trust.php:23 view/view.unblock.php:22 view/view.untrust.php:34
+msgid "Back to the list."
+msgstr ""
+
+#: view/view.trust.php:24
+msgid "%s has been trusted. %s"
+msgstr ""
+
+#: view/view.unblock.php:23
+msgid "%s has been removed from Blacklisted. %s"
+msgstr ""
+
+#: view/view.untrust.php:35
+msgid "%s has been untrusted. %s"
+msgstr ""
+
+#: view/view.untrust.php:44
+msgid "%d spam comment has been removed."
+msgid_plural "%d spam comments have been removed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: view/view.untrust.php:53
+msgid "%d spam comments have been removed, and %s has been blocked."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://blacklisted.gauracreative.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple to use plugin that enables you to leverage the power of the user "
+"community to keep your WordPress site clean of spam comments."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jay Gaura"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.gauracreative.com/"
+msgstr ""
